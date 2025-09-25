@@ -1,1 +1,1 @@
-# BasicJavaPrograms
+# BasicCoreJavaPrograms

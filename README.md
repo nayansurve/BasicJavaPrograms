@@ -1,4 +1,4 @@
-# 🚀 Basic Core Java Programs
+# 🚀 Basic Core Java Program
 
 Welcome to the **Basic Core Java Programs** repository! 🎉  
 This repo contains simple and beginner-friendly **Java programs** that cover the most important concepts of **Core Java**.  
